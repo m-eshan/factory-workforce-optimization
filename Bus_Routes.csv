@@ -1,0 +1,6 @@
+BusID,Route,Capacity,FuelEfficiency_Kmpl,RouteDistance_Km
+BUS01,Perundurai,24,5.0,12
+BUS02,Erode,36,4.8,18
+BUS03,Chithode,24,5.2,8
+BUS04,Nasiyanur,32,4.9,15
+BUS05,Gobichettipalayam,24,4.5,28

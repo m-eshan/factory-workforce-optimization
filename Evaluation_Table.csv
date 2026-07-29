@@ -1,0 +1,7 @@
+Metric,Baseline (No Model),Proposed System,Improvement
+Avg Daily Food Waste %,20.65,9.04,-56.24%
+Bus Utilization %,62.0,79.26,27.84%
+OT Hours / Dept / Week,184.65,142.18,-23.0%
+Anomaly Detection Rate,None (manual),91%,New capability
+WEI Score (avg),N/A,84.37,New metric
+Cross-module alert precision,N/A,82.0%,New capability
